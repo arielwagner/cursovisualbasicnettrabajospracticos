@@ -1,0 +1,61 @@
+C:\Users\Ariel\Desktop\Medidor\ExcelWorkbook1\bin\Debug\AutoCalendar.dll
+C:\Users\Ariel\Desktop\Medidor\ExcelWorkbook1\bin\Debug\AutoCalendar.pdb
+C:\Users\Ariel\Desktop\Medidor\ExcelWorkbook1\bin\Debug\AutoCalendar.xml
+C:\Users\Ariel\Desktop\Medidor\ExcelWorkbook1\bin\Debug\AutoCalendar.dll.manifest
+C:\Users\Ariel\Desktop\Medidor\ExcelWorkbook1\bin\Debug\AutoCalendar.vsto
+C:\Users\Ariel\Desktop\Medidor\ExcelWorkbook1\bin\Debug\ExcelWorkbook1.xlsx
+C:\Users\Ariel\Desktop\Medidor\ExcelWorkbook1\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Ariel\Desktop\Medidor\ExcelWorkbook1\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Users\Ariel\Desktop\Medidor\ExcelWorkbook1\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\Ariel\Desktop\Medidor\ExcelWorkbook1\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+C:\Users\Ariel\Desktop\Medidor\ExcelWorkbook1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ariel\Desktop\Medidor\ExcelWorkbook1\obj\Debug\ExcelWorkbook1.Resources.resources
+C:\Users\Ariel\Desktop\Medidor\ExcelWorkbook1\obj\Debug\ExcelWorkbook1.Ribbon1.resources
+C:\Users\Ariel\Desktop\Medidor\ExcelWorkbook1\obj\Debug\ExcelWorkbook1.RibTool.resources
+C:\Users\Ariel\Desktop\Medidor\ExcelWorkbook1\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Ariel\Desktop\Medidor\ExcelWorkbook1\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Ariel\Desktop\Medidor\ExcelWorkbook1\obj\Debug\AutoCalendar.dll
+C:\Users\Ariel\Desktop\Medidor\ExcelWorkbook1\obj\Debug\AutoCalendar.xml
+C:\Users\Ariel\Desktop\Medidor\ExcelWorkbook1\obj\Debug\AutoCalendar.pdb
+H:\000_Trabajos de Empresas\Complementos Excel\AutoCalendar\bin\Debug\AutoCalendar.dll
+H:\000_Trabajos de Empresas\Complementos Excel\AutoCalendar\bin\Debug\AutoCalendar.pdb
+H:\000_Trabajos de Empresas\Complementos Excel\AutoCalendar\bin\Debug\AutoCalendar.xml
+H:\000_Trabajos de Empresas\Complementos Excel\AutoCalendar\bin\Debug\AutoCalendar.dll.manifest
+H:\000_Trabajos de Empresas\Complementos Excel\AutoCalendar\bin\Debug\AutoCalendar.vsto
+H:\000_Trabajos de Empresas\Complementos Excel\AutoCalendar\bin\Debug\ExcelAutoCalendar.xlsx
+H:\000_Trabajos de Empresas\Complementos Excel\AutoCalendar\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+H:\000_Trabajos de Empresas\Complementos Excel\AutoCalendar\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+H:\000_Trabajos de Empresas\Complementos Excel\AutoCalendar\obj\Debug\ExcelWorkbook1.Resources.resources
+H:\000_Trabajos de Empresas\Complementos Excel\AutoCalendar\obj\Debug\ExcelWorkbook1.Ribbon1.resources
+H:\000_Trabajos de Empresas\Complementos Excel\AutoCalendar\obj\Debug\ExcelWorkbook1.RibTool.resources
+H:\000_Trabajos de Empresas\Complementos Excel\AutoCalendar\obj\Debug\AutoCalendar.dll
+H:\000_Trabajos de Empresas\Complementos Excel\AutoCalendar\obj\Debug\AutoCalendar.xml
+H:\000_Trabajos de Empresas\Complementos Excel\AutoCalendar\obj\Debug\AutoCalendar.pdb
+H:\000_Trabajos de Empresas\Complementos Excel\AutoCalendar\obj\Debug\AutoCalendar.vbproj.GenerateResource.Cache
+H:\000_Trabajos de Empresas\Complementos Excel\AutoCalendar\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+H:\000_Trabajos de Empresas\Complementos Excel\AutoCalendar\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.resources.dll
+H:\000_Trabajos de Empresas\Complementos Excel\AutoCalendar\obj\Debug\AutoCalendar.vbprojResolveAssemblyReference.cache
+D:\Cursos Que Dicto\Cursos Nueva Planificación\Plan 2017\Modulo II\Práctica\Curso VB II\AutoCalendar\bin\Debug\AutoCalendar.dll
+D:\Cursos Que Dicto\Cursos Nueva Planificación\Plan 2017\Modulo II\Práctica\Curso VB II\AutoCalendar\bin\Debug\AutoCalendar.pdb
+D:\Cursos Que Dicto\Cursos Nueva Planificación\Plan 2017\Modulo II\Práctica\Curso VB II\AutoCalendar\bin\Debug\AutoCalendar.xml
+D:\Cursos Que Dicto\Cursos Nueva Planificación\Plan 2017\Modulo II\Práctica\Curso VB II\AutoCalendar\bin\Debug\AutoCalendar.dll.manifest
+D:\Cursos Que Dicto\Cursos Nueva Planificación\Plan 2017\Modulo II\Práctica\Curso VB II\AutoCalendar\bin\Debug\AutoCalendar.vsto
+D:\Cursos Que Dicto\Cursos Nueva Planificación\Plan 2017\Modulo II\Práctica\Curso VB II\AutoCalendar\bin\Debug\ExcelAutoCalendar.xlsx
+D:\Cursos Que Dicto\Cursos Nueva Planificación\Plan 2017\Modulo II\Práctica\Curso VB II\AutoCalendar\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\Cursos Que Dicto\Cursos Nueva Planificación\Plan 2017\Modulo II\Práctica\Curso VB II\AutoCalendar\bin\Debug\Microsoft.Office.Tools.Excel.dll
+D:\Cursos Que Dicto\Cursos Nueva Planificación\Plan 2017\Modulo II\Práctica\Curso VB II\AutoCalendar\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+D:\Cursos Que Dicto\Cursos Nueva Planificación\Plan 2017\Modulo II\Práctica\Curso VB II\AutoCalendar\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\Cursos Que Dicto\Cursos Nueva Planificación\Plan 2017\Modulo II\Práctica\Curso VB II\AutoCalendar\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+D:\Cursos Que Dicto\Cursos Nueva Planificación\Plan 2017\Modulo II\Práctica\Curso VB II\AutoCalendar\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.xml
+D:\Cursos Que Dicto\Cursos Nueva Planificación\Plan 2017\Modulo II\Práctica\Curso VB II\AutoCalendar\bin\Debug\Microsoft.Office.Tools.Excel.xml
+D:\Cursos Que Dicto\Cursos Nueva Planificación\Plan 2017\Modulo II\Práctica\Curso VB II\AutoCalendar\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+D:\Cursos Que Dicto\Cursos Nueva Planificación\Plan 2017\Modulo II\Práctica\Curso VB II\AutoCalendar\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+D:\Cursos Que Dicto\Cursos Nueva Planificación\Plan 2017\Modulo II\Práctica\Curso VB II\AutoCalendar\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.resources.dll
+D:\Cursos Que Dicto\Cursos Nueva Planificación\Plan 2017\Modulo II\Práctica\Curso VB II\AutoCalendar\obj\Debug\AutoCalendar.vbprojResolveAssemblyReference.cache
+D:\Cursos Que Dicto\Cursos Nueva Planificación\Plan 2017\Modulo II\Práctica\Curso VB II\AutoCalendar\obj\Debug\ExcelWorkbook1.Resources.resources
+D:\Cursos Que Dicto\Cursos Nueva Planificación\Plan 2017\Modulo II\Práctica\Curso VB II\AutoCalendar\obj\Debug\ExcelWorkbook1.Ribbon1.resources
+D:\Cursos Que Dicto\Cursos Nueva Planificación\Plan 2017\Modulo II\Práctica\Curso VB II\AutoCalendar\obj\Debug\ExcelWorkbook1.RibTool.resources
+D:\Cursos Que Dicto\Cursos Nueva Planificación\Plan 2017\Modulo II\Práctica\Curso VB II\AutoCalendar\obj\Debug\AutoCalendar.vbproj.GenerateResource.Cache
+D:\Cursos Que Dicto\Cursos Nueva Planificación\Plan 2017\Modulo II\Práctica\Curso VB II\AutoCalendar\obj\Debug\AutoCalendar.dll
+D:\Cursos Que Dicto\Cursos Nueva Planificación\Plan 2017\Modulo II\Práctica\Curso VB II\AutoCalendar\obj\Debug\AutoCalendar.xml
+D:\Cursos Que Dicto\Cursos Nueva Planificación\Plan 2017\Modulo II\Práctica\Curso VB II\AutoCalendar\obj\Debug\AutoCalendar.pdb
